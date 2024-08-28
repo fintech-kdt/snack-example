@@ -1,0 +1,22 @@
+[
+    {
+        "name": "오예스",
+        "price": 8900,
+        "image": "ohyes.jpg"
+    },
+    {
+        "name": "제왕 쌀과자",
+        "price": 10980,
+        "image": "king.jpg"  
+    },
+    {
+        "name": "빈츠",
+        "price": 4400,
+        "image": "binch.jpg"
+    },
+    {
+        "name": "하리보",
+        "price": 11690,
+        "image": "haribo.jpg"
+    }
+]
